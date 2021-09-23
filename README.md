@@ -1,4 +1,4 @@
-<img src="https://github.com/yelwin3098/yelwin3098/blob/main/portfolio.png">
+<img width="70%" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 <h2> Hey there! I'm Ye' Lwin.</h2>
 

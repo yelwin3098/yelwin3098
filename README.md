@@ -9,7 +9,7 @@
 - 💼 &nbsp; Working as a Web Developer at Global New Wave Technology.
 - 👨‍💻 All of my projects are available at [https://github.com/yelwin3098](https://github.com/yelwin3098)
 - 🌱 I’m currently learning **React**
-- 💬 Ask me about **nodejs,laravel**
+- 💬 Ask me about the following tech stacks...👇👇
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 

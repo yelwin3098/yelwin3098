@@ -34,12 +34,15 @@
 
 <br/>
 
-<a href="https://github.com/yelwin3098">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yelwin3098&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yelwin3098&theme=buefy&layout=compact" />
-</a>
+## &#x1f4c8; GitHub Stats
+
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yelwin3098&show_icons=true&locale=en&layout=compact&theme=radical" alt="yelwin3098" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yelwin3098&theme=radical" alt="yelwin3098" /></p>
 
 <br/>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yelwin3098&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 

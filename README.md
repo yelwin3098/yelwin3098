@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F47174&size=29&multiline=true&width=700&lines=Welcome+To+Ye+Lwin's+GitHub+Profile)](https://git.io/typing-svg)
 
-<a href="#"><img width="28%" align="right" height="30%" alt="Github" align="right" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" /></a>
-## Hi there I'm Ye Lwin <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">&nbsp; Hi there I'm Ye Lwin
 > **Well done is better than Well said**💪
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3><img src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" width="44px"> &nbsp;About Me</h3>
+
 - 🤔 &nbsp; Exploring new technologies and developing software/web solutions.
 - 🎓 &nbsp; Studying Computer Science and Mathematics at the University of Computer Studies (Meiktila).
 - 💼 &nbsp; Working as a Web Developer at Global New Wave Technology.

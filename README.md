@@ -36,9 +36,14 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yelwin3098&show_icons=true&locale=en&layout=compact&theme=radical" alt="yelwin3098" /></p>
-
-<p align="left"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yelwin3098&theme=radical" alt="yelwin3098" /></p>
+<center>
+  <table>
+    <tr>
+        <td><img  width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yelwin3098&show_icons=true&locale=en&layout=compact&theme=radical" alt="yelwin3098" />
+        <td><img width="495px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yelwin3098&theme=radical" alt="yelwin3098" /></td>
+    </tr>   
+  </table>
+</center>
 
 <br/>
 

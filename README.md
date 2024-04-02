@@ -11,6 +11,7 @@
 - 💼 &nbsp; Working as a Web Developer at Global New Wave Technology.
 - 👨‍💻 All of my projects are available at [https://github.com/yelwin3098](https://github.com/yelwin3098)
 - 🌱 I’m currently learning **Java**
+- 📫 How to reach me: [https://yelwin.vercel.app]
 - 💬 Ask me about the following tech stacks...👇👇
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -57,6 +58,8 @@
 </center>
 
 <br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yelwin3098&layout=compact&theme=radical)](https://github.com/yelwin3098)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yelwin3098&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
 

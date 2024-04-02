@@ -59,8 +59,6 @@
 
 <br/>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yelwin3098&theme=github)](https://github.com/yelwin3098)
-
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">

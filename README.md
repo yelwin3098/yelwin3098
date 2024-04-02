@@ -59,8 +59,6 @@
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yelwin3098&layout=compact&theme=radical)](https://github.com/yelwin3098)
-
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yelwin3098&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>

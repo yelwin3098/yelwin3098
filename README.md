@@ -1,6 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F47174&size=29&multiline=true&width=700&lines=Welcome+To+Ye+Lwin's+GitHub+Profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F47174&size=29&multiline=true&width=700&lines=Welcome)](https://git.io/typing-svg)
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px" height="30px">&nbsp; Hi there I'm Ye Lwin
+- 👨‍💻 I'm a passionate full-stack web developer specializing in ReactJS and NodeJS. With a strong foundation in modern web technologies, I build responsive, user-friendly applications that deliver exceptional user experience.
+
 > **Well done is better than Well said**💪
 
 <h3><img src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" width="44px" height="30px"> &nbsp;About Me</h3>

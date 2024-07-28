@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F47174&size=29&multiline=true&width=700&lines=Welcome)](https://git.io/typing-svg)
-
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px" height="30px">&nbsp; Hi there! I'm Ye Lwin.
 👨‍💻 I'm a passionate full-stack web developer specializing in ReactJS and NodeJS. With a strong foundation in modern web technologies, I build responsive, user-friendly applications that deliver exceptional user experiences.
 
